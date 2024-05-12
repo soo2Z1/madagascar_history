@@ -1,0 +1,58 @@
+header img {
+   display: block;
+   margin: 0 auto;
+}
+
+
+.container{
+    display:flex;
+    align-items: center;
+}
+
+.text{
+    flex:1;
+    padding-right: 20px;
+}
+
+.i{
+    height:400px;
+}
+
+p{
+    color: #CDFF04;
+    font-family:'Jost' sans-serif ;
+    font-size: 20px;
+}
+
+h1{
+    color: #CDFF04;
+}
+
+b{
+    color:#ffb004;
+}
+
+h1{
+    text-align: center;
+    color: #CDFF04;
+    background-color:rgba(0, 255, 47, 0.774);
+    margin: 10px 400px;
+    border-radius: 5px;
+}
+
+i{
+    font-size: 20px;
+}
+
+.f{
+    margin: 130px;
+}
+
+a{
+    color: #CDFF04;
+    background-color: rgba(0, 255, 47, 0.798);
+    padding: 10px 40px 10px 40px;
+    border-radius: 5px;
+    margin: 200px;
+    font-family:  Trebuchet MS;
+}
